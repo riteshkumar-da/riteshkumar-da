@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I’m an **Data Analyst** with a strong interest in turning data into meaningful insights.  
 Here, you’ll find projects related to **data analysis, visualization, and SQL** as I continue learning and building.
 
-### 🔍 What you'll find here
+###  What you'll find here
 - 📊 Data analysis & Power BI dashboards  
 - 🧮 SQL queries and datasets  
 - 📈 Practice projects using real-world data  
