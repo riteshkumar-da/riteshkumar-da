@@ -1,39 +1,23 @@
-## 👋 Hi, I’m Ritesh Kumar
+## 👋 Hi there, I'm so glad you're here!
 
-**Data Analyst** with a strong interest in data analysis, visualization, and business intelligence.  
-I enjoy working with real-world datasets and turning raw data into meaningful insights.
+Welcome to my GitHub profile!
 
----
+I’m an **Data Analyst** with a strong interest in turning data into meaningful insights.  
+Here, you’ll find projects related to **data analysis, visualization, and SQL** as I continue learning and building.
 
-### 🔍 What you’ll find here
-- 📊 Data analytics projects using real datasets  
-- 📈 Power BI dashboards and reports  
-- 🧠 SQL queries for analysis and reporting  
-- 🧹 Data cleaning and insights  
+### 🔍 What you'll find here
+- 📊 Data analysis & Power BI dashboards  
+- 🧮 SQL queries and datasets  
+- 📈 Practice projects using real-world data  
 
----
-
-### 🧰 Tools & Skills
-- Power BI  
-- SQL  
-- Excel  
-- Python (Basics)  
-- Data Analysis & Visualization  
-
----
-
-### 📂 Featured Projects
-- 📊 Sales Performance Dashboard (Power BI)  
-- 🧾 Booking & Cancellation Analysis (SQL)  
-- 📈 Excel Reporting & Analysis  
-
----
-
+### 🛠 Tech Stack
+- **Data Analysis:** Excel, SQL, Power BI  
+- **Databases:** MySQL,  
+- **Languages:** DAX, Python (basic)  
+ 
 ### 🌐 Connect with me
-- 💼 LinkedIn: https://www.linkedin.com/in/ritlesh-kumar-740405280
-- 📧 Email: ritlesh.kumar.saw@gmail.com
+- 💼 LinkedIn: *https://www.linkedin.com/in/ritlesh-kumar-740405280*  
+- 📧 Email: *ritlesh.kumar.saw@gmail.com*  
 
----
-
-⭐ Actively learning and building real-world analytics projects  
-Let’s connect and grow together!
+Thanks for visiting! 😊  
+Feel free to explore my repositories and share feedback.
