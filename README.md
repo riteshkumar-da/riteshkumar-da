@@ -13,7 +13,13 @@ Here, you’ll find projects related to **data analysis, visualization, and SQL*
 ### 🛠 Tech Stack
 - **Data Analysis:** Excel, SQL, Power BI  
 - **Databases:** MySQL,  
-- **Languages:** DAX, Python (basic)  
+- **Languages:** DAX, Python (basic)
+- ### 🛠 Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  
 ### 🌐 Connect with me
 - 💼 LinkedIn: *https://www.linkedin.com/in/ritlesh-kumar-740405280*  
