@@ -14,7 +14,6 @@ Here, you’ll find projects related to **data analysis, visualization, and SQL*
 - **Data Analysis:** Excel, SQL, Power BI  
 - **Databases:** MySQL,  
 - **Languages:** DAX, Python (basic)
-- ### 🛠 Tech Stack
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
